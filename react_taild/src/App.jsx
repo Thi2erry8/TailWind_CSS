@@ -6,7 +6,11 @@ function App() {
 
   return (
     <>
-          <h1 class="text-3xl text-green-200  font-bold underline">
+          <h1 class="">
+            Hello world!
+         </h1>
+
+         <h1 class="">
             Hello world!
          </h1>
     </>
