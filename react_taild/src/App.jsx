@@ -5,15 +5,12 @@ function App() {
   const [count, setCount] = useState(0)
 
   return (
-    <>
-          <h1 class="">
-            Hello world!
-         </h1>
-
-         <h1 class="">
-            Hello world!
-         </h1>
-    </>
+    <div>
+            <h1 className='text-8xl'>la vie est belle</h1>
+            <h2 className='text-xl'>la vie est belle</h2>
+            <h3 className='text-sm'>la vie est belle</h3>
+            <p className='text-xs'>la vie est belle</p>
+    </div>
   )
 }
 
